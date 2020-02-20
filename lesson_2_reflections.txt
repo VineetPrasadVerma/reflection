@@ -1,14 +1,14 @@
 What happens when you initialize a repository? Why do you need to do it?
-    - It creates .git directory init which allows us to perform git operations on that folder.
+ans - It creates .git directory init which allows us to perform git operations on that folder.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-    - Working directory shows status of all the files in repo while staging area shows status of file which
+ans - Working directory shows status of all the files in repo while staging area shows status of file which
       are going to be commited.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-    - Add those files in staging area which is responsible for particualr logic change.
+ans - Add those files in staging area which is responsible for particualr logic change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
