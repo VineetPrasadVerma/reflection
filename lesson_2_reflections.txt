@@ -15,6 +15,7 @@ organized? How would branches help?
     - When want to add new features while keeping the original code untouched.
 
 How do the diagrams help you visualize the branch structure?
+    - It helps in understanding commits related to particular branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
